@@ -1,0 +1,14 @@
+modMain = 66, 87, 544, 543, Z
+frmMain = 0, 0, 0, 0, C, 22, 29, 500, 485, C
+modInit = 0, 0, 0, 0, C
+modInput = 44, 58, 522, 514, 
+modRender = 0, 0, 0, 0, C
+modSetup = 0, 0, 0, 0, C
+modOsnovniMenu = 44, 58, 522, 514, 
+modIgra = 0, 0, 0, 0, C
+modKonstante2D = 0, 0, 0, 0, C
+modMenuNovaIgra = 0, 0, 0, 0, C
+modMenuNastavitve = 0, 0, 0, 0, C
+modMenuAvtor = 0, 0, 0, 0, C
+modMenuIzhod = 0, 0, 0, 0, C
+modKazalec = 66, 87, 544, 543, 
